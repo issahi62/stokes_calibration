@@ -138,6 +138,11 @@ myLegend=legend('analyzer only',...
     'fitted D. CPL_4');
 set(myLegend,'Position',[0.599609375000001 0.491489128602729 0.1109375 0.295845272206304],...
     'fontsize', 12);
+    
+ % CPL_1 polarization angle is at 0 degrees with the waveplate oriented in its transmission axis 
+ % CPL_2 polarization angle of the LPL is 45 degrees which is glued with the waveplate in its transmission axis 
+ % CPL_3 polarization angle of the LPL is 90 degrees ... 
+ % CPL_4 waveplate is infront of the light source oreinted at 45 degrees and stacked with a LPL at its transmission axis. 
 
 
 % if(caseNr==1)
